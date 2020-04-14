@@ -1,0 +1,79 @@
+01 ICCV-Meng-20140910.pptx
+02 demo.zip
+03 SalObjLu.ppt
+04 SalObjLi.pptx
+05 SalObjCheng.pptx
+06 SalObjLu.ppt
+07 SalObjLi.pptx
+08 SalObjCheng.pptx
+09 EBT_slides.pdf
+10 LuFang_ppt_VALSE.pdf
+11
+12 æ®·ç»ªæ20140925.ppt
+13 æ®·ç»ªæ20140925.ppt
+14 é»ä¼æ20140925.pptx
+15 Representation in Scene Text Detection and Recognition.pdf
+16 tracking-valse-Ling.pptx
+17 cvpr12_wei-zhong.ppt
+18 VALSE_Talk_å¼ å¤©æ±.pdf
+19 VALSE_tracking_yi-wu.pdf
+20 tracking-valse-Ling.pptx
+21 cvpr12_wei-zhong.ppt
+22 VALSE_Talk_å¼ å¤©æ±.pdf
+23 VALSE_tracking_yi-wu.pdf
+24 Discriminative Blur Detection Features.pdf
+25 Discriminative Blur Detection Features.pptx
+26 LPDE_RishengLiu.pdf
+27 Jiashi Feng.pptx
+28 Ning Zhang.pdf
+29 XiaogangWang.pptx
+30 ShiguangShan.pptx
+31 MingYang.pdf
+32 Jiwen_kinship.pdf
+33 RSRMI_GUO.pdf
+34 ValseWebinar_WangmengZuo.ppt
+35 CVPR14_Slides_ZhiwuHuang_VALSE_Webinar.pdf
+36 Local-Difference-Binary-for-Ultrafast-and-Distinctive-Feature-Description.pdf
+37 Supervised Video Summarization - Boqing Gong.pptx
+38 LADMPSAP.pdf
+39 XiLi_KeypointObjectTracking_AAAI15.pptx
+40 LV.pdf
+41 Point Cloud Parsing_JRR.ppt
+42 VALSE_0114_DWS.pptx
+43 Structured_Hough_Voting.pptx
+44 Zhengwu_VALSEtalk.pdf
+45 LijunZhang.pptx
+46 KaihuaZhang.pdf
+47 DengWH.pptx
+48 VASLE_YangMeng.pdf
+49 Valse_JiangLu.pdf
+50 Valse Webinar_LUYiJie.pdf
+51 Gino Severini VALSE.jpg
+52 dsn.pdf
+53 shanshan_valse_webinar.pdf
+54 obj_discovery.pdf
+55 tuozhao.pdf
+56 RVT.pptx
+57 LDL-XinGen.pptx
+58 KeChen.pptx
+59 GuoYulan.pdf
+60 ZhenWeisi.pdf
+61 ZhengWeisi.pdf
+62 ZhengWeishi.pdf
+63 2015-04-29æä¸æ¥åçPPT.pdf
+64 Partial Face Recognition Alignment Free Approach.pdf
+65 Design and learn distinctive features from pore-scale facial keypoints.pdf
+66 High-Resolution Face Verification Using Pore-Scale Facial Features.pdf
+67 ShengCaiLiao-PFR-VALSE.pptx
+68 LiDong_slides.pdf
+69 1-s2.0-S003132031400394X-main.pdf
+70 07059198.pdf
+71 Jindong Wang_ValseWebinar.pdf
+72 Talk_VALSE_Webinar_KuiJia.pdf
+73 DeepContourPPT_WeiShen.pdf
+74 Fudicial_extraction_Invariant_XinFan.pdf
+75 Zhanyu_Ma_Valse_Webinar20150520.pdf
+76 Wei_Feng_Valse_Webinar20150520.pdf
+77 ImageSpirit_ShuaiZheng2015.pdf
+78 WuJX_VALSE_Webinar.pdf
+79 WuJX_VALSE_Webinar.pdf
