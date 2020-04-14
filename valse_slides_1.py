@@ -1,7 +1,8 @@
-# download PDF files from:
-# http://valser.org/article-356-1.html
-# http://valser.org/article-355-1.html
+# Download PDF files from:
+# http://valser.org/article-269-1.html
+# http://valser.org/article-270-1.html
 # ……
+# http://valser.org/article-356-1.html
 
 import re
 import os
@@ -42,7 +43,7 @@ def getFile(url, file_name):
 
     f.close()
 
-for page in range(276, 357, 1):
+for page in range(269, 357, 1):
     print('Processing',str(page),'\b/356 pages...')
 
     url_raw = 'http://valser.org/article-' + str(page) + '-1.html'

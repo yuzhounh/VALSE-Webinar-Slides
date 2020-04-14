@@ -1,7 +1,8 @@
-# download PDF files from:
+# Download PDF files from:
 # http://valser.org/portal.php?mod=attachment&id=1
 # http://valser.org/portal.php?mod=attachment&id=2
 # ……
+# http://valser.org/portal.php?mod=attachment&id=79
 
 # Python download without supplying a filename - Stack Overflow
 # https://stackoverflow.com/questions/2795331/python-download-without-supplying-a-filename
