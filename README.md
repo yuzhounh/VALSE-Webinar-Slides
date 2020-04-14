@@ -13,7 +13,7 @@ http://valser.org/portal.php?mod=attachment&id=2
 ……  
 http://valser.org/portal.php?mod=attachment&id=79  
 
-Contact information:
+Contact information:  
 Jing Wang  
 wangjing@xynu.edu.cn  
 yuzhounh@163.com  
