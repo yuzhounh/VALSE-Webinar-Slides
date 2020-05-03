@@ -14,7 +14,7 @@ from urllib.request import urlretrieve
 
 for num in range(1, 80, 1):
     if num != 11:
-        url = "http://valser.org/portal.php?mod=attachment&id=" + str(num)
+        url = 'http://valser.org/portal.php?mod=attachment&id={}'.format(num)
         remotefile = urlopen(url)
         blah = remotefile.info()['Content-Disposition']
         value, params = cgi.parse_header(blah)

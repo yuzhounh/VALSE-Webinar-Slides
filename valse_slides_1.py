@@ -29,6 +29,7 @@ def getUrl(html):
 
     return(url_lst)
 
+# download the file with certain url
 def getFile(url, file_name):
     f = open(file_name, 'wb')
 
@@ -43,10 +44,11 @@ def getFile(url, file_name):
 
     f.close()
 
+# Processing pages
+pageNum = 400
 for page in range(269, 357, 1):
-    print('Processing',str(page),'\b/356 pages...')
-
-    url_raw = 'http://valser.org/article-' + str(page) + '-1.html'
+    print('Processing {}/{} pages'.format(page, pageNum))
+    url_raw = 'http://valser.org/article-{}-1.html'.format(page)
 
     html = getHtml(url_raw)
     url_lst = getUrl(html)
@@ -54,6 +56,6 @@ for page in range(269, 357, 1):
     cnt = 0
     for url in url_lst[:]:
         cnt += 1
-        file_name = str(page) + str(cnt) + " " + url.split('/')[-1]
+        file_name = '{}{} {}'.format(page, cnt, url.split('/')[-1])
         print(file_name)
         getFile(url, file_name)
